@@ -1,0 +1,57 @@
+ body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+ }
+ header{
+     background-color: navy;
+     text-align: center;
+ }
+ h1, h2{
+    font-family: 'IBM Plex Mono', monospace;
+ }
+ header h1{
+     color: white;
+     font-size: 40px;
+     line-height: 50px;
+     margin-top: 0;
+ }
+ header img{
+     border-radius: 50px;
+     border: 10px solid #0088FF;
+ }
+ main{
+     max-width: 600px;
+     margin: 0 auto;
+     padding: 0 30px;
+ }
+ main img{
+     max-width: 100%;
+ }
+ h2{
+     font-size: 30px;
+     color: navy;
+ }
+ a{
+     color: blueviolet;
+ }
+ a:hover{
+     color: yellow;
+     font-size: 50px;
+     background-color: black;
+ }
+ footer{
+     background-color: red;
+     text-align: center;
+     color: whitesmoke;
+     padding: 50px;
+ }
+ footer p{
+     margin: 0;
+ }
+ p.caption{
+     color: gray;
+     font-style: italic;
+     margin-top: 0;
+ }
